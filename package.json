@@ -1,0 +1,19 @@
+{
+  "name": "Monster Munch",
+  "version": "1.0.0",
+  "description": "Monster Munch Concours",
+  "scripts": {
+    "dev": "npx parcel src/html/index.njk --no-cache",
+    "prod": "npx parcel build src/html/index.njk"
+  },
+  "repository": "https://github.com/SantiMA10/tailwindcss-parcel-starter.git",
+  "author": "Santi <santiagomartinagra@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nunjucks": "^3.2.0",
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-nunjucks": "^1.1.0",
+    "postcss": "^7.0.17",
+    "tailwindcss": "^1.0.4"
+  }
+}
