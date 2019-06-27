@@ -19,27 +19,11 @@ module.exports = {
                 },
     extend: {
       colors: {
-        'rose-header': '#f3c6bd',
-        'blue-btn':'#3040c4',
-        'gray-block1':'#f4f5f7',
-        'text-black':'#2b292d',
-        'green-block3':'#009b4d',
-        'red-block4':'#f1592b',
-        'blue-block5':'#0189d1',
-        'blue-block6':'#c1e8f1',
-        'blue-card':'#3141c5',
+        'red-header': '#d6101e',
+        'blue-btn':'#005c9c'
       },
       spacing: {
         'container':'1200px',
-        'header':'710px',
-        'header-link':'290px',
-        'header-menu':'510px',
-        'header-w-img':'1500px',
-        'header-h-img':'448px',
-        'bloc-1':'255px',
-        'block-3-w':'700px',
-        'block-3-h':'600px',
-        'block-8-w':'755px',
         'xxl':'80px',
         '52':'208px',
         '60':'240px',
@@ -62,6 +46,7 @@ module.exports = {
       maxWidth: {
         'container':'1200px',
         'containerresp':'230px',
+        'title':'580px',
       },
       fontSize: {
         'xxl':'80px'
