@@ -1,8 +1,8 @@
 module.exports = {
   theme: {
     fontFamily: {
-       'display': ['"Work Sans"'],
-       'body': ['"Work Sans"'],
+       'display': ['"Echomotors"'],
+       'body': ['"Echomotors"'],
           },
           fill: {
                 current: 'currentColor',
@@ -20,7 +20,8 @@ module.exports = {
     extend: {
       colors: {
         'red-header': '#d6101e',
-        'blue-btn':'#005c9c'
+        'blue-main':'#005c9c',
+        'yellow-footer':'#eecb09',
       },
       spacing: {
         'container':'1200px',

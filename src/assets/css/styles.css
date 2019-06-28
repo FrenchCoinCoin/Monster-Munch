@@ -1,14 +1,24 @@
 @tailwind base;
 
+@font-face {
+    font-family: Echomotors;
+    font-weight: 400;
+    src: url(../fonts/Echomotors.otf) format("otf");
+    src: url(../fonts/Echomotors.ttf) format("ttf");
+  }
+
 @tailwind components;
 
 @tailwind utilities;
 
-html {
+body{
+    font-family: "Echomotors", sans-serif;
+}
+/* html {
     height: 100%;
   }
   body {
     min-height: 100%;
     margin: 0;
     padding: 0;
-  }
+  } */
