@@ -13,7 +13,7 @@
     "nunjucks": "^3.2.0",
     "parcel-bundler": "^1.12.3",
     "parcel-plugin-nunjucks": "^1.1.0",
-    "postcss": "^7.0.17",
+    "postcss": "^7.0.36",
     "tailwindcss": "^1.0.4"
   }
 }
